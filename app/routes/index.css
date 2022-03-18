@@ -1,0 +1,12 @@
+main {
+  display: grid;
+  gap: 0.75rem;
+}
+
+a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
